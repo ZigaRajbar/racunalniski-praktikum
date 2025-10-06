@@ -1,3 +1,3 @@
 # Računalniški praktikum
 
-2. domača naloga.
+2. domača naloga
