@@ -1,3 +1,3 @@
 # Računalniški praktikum
 
-2. domača naloga
+https://zigarajbar.github.io/
